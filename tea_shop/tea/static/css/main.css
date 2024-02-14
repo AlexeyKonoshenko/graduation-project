@@ -1,0 +1,20 @@
+body {
+    background: #2c2c2c;
+    color: #fff;
+}
+
+
+nav {
+    color: #fff;
+    font-size: 25px;
+}
+
+
+nav img {
+    width: 40px;
+}
+
+nav li:hover, nav a:hover{
+    transform: scale(1.05);
+}
+
